@@ -1,8 +1,8 @@
 {
-    "app_id": "application-14-hmtrz",
+    "app_id": "application-15-wsite",
     "config_version": 20210101,
-    "name": "Application-14",
+    "name": "Application-15",
     "location": "SG",
     "provider_region": "aws-ap-southeast-1",
-    "deployment_model": "LOCAL", fadfasdfadf
+    "deployment_model": "LOCAL"
 }
